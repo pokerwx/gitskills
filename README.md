@@ -1,2 +1,6 @@
 this is dev branch.
-this is a new dev & branch.
+<<<<<<< HEAD
+this is a new OR dev AND branch.
+=======
+this is a new OR dev AND branch.
+>>>>>>> feature1
